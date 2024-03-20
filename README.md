@@ -1,1 +1,1 @@
-hello
+Silence is Golden!
