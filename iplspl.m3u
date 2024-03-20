@@ -1,13 +1,12 @@
 #EXTM3U 
 
 #EXTINF: -1 tvg-name="Demo" tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" group-title="Join TG @M3U_LOVERS", [JOIN TG @M3U_LOVERS]
-https://yuvrajchak.000webhostapp.com/items/demo.mp4
+https://yg0001.github.io/m3u/demo.mp4
 
-#EXTINF: -1 tvg-id="18739" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="Join TG @M3U_LOVERS", SPORTS 18 4K [Join TG @M3U_LOVERS]
-https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=18739
-
-#EXTINF: -1 tvg-id="14790" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Join TG @M3U_LOVERS", STAR SPORTS 1 HIN 4K [Join TG @M3U_LOVERS]
-https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=14790
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
+#EXTINF:-1 tvg-id=ts24 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Join TG @M3U_LOVERS",Star Sports 1 Hindi 4K
+https://rftv.wtf/tp/tplay.mpd?contentID=24
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Join TG @M3U_LOVERS", STAR SPORTS 1 (2nd server) [Join TG @M3U_LOVERS]
 http://vo01.mohdtv.com:8880/ALLChannels48062c020013/50254498/55273
