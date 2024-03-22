@@ -10,3 +10,9 @@ https://rftv.wtf/tp/tplay.mpd?contentID=24
 
 #EXTINF: -1 tvg-name="STAR SPORTS 1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Join TG @M3U_LOVERS", STAR SPORTS 1 (2nd server) [Join TG @M3U_LOVERS]
 http://vo01.mohdtv.com:8880/ALLChannels48062c020013/50254498/55273
+
+#EXTINF: -1 tvg-name="[Tamil] STAR SPORTS 1" tvg-logo="" group-title="Join TG @M3U_LOVERS",[Tamil] STAR SPORTS 1 [Join TG @M3U_LOVERS]
+https://bq32.short.gy/join@vaathala1?mac=00:1a:79:c7:74:97&stream=155873&extension=.ts
+
+#EXTINF: -1 tvg-name="[Telugu] STAR SPORTS 1" tvg-logo="" group-title="Join TG @M3U_LOVERS",[Telugu] STAR SPORTS 1 [Join TG @M3U_LOVERS]
+https://vicky1111000.github.io/stream/telugu/master.m3u8?&play_token=join@vaathala1
