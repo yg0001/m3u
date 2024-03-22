@@ -7,3 +7,6 @@ https://example.com
 
 #EXTINF:-1 tvg-id="1" tvg-name="[TELUGU] SONY YAY" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Join TG @M3U_LOVERS",[TELUGU] SONY YAY!
 https://t.ly/dHTJL
+
+#EXTINF: -1 tvg-id="" group-logo="" tvg-logo="" group-title="Kids", Sony YAY Tamil
+https://t.ly/oKU1Q
