@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="https://i.ibb.co/bg33hHS/download.png",Hungama Multi Audio http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.php?contentID=1276&key
 #EXTINF:-1 tvg-id=ts1276 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png" group-title="Tata Sky",Investigation Discovery HD
