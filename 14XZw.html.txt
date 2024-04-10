@@ -1,0 +1,232 @@
+<html>
+	<head>
+		<script>
+			window.location.replace("https://t.me/m3u_lovers/");
+		</script>
+	</head>
+</html>
+#EXTM3U x TG:m3u_lovers playlist
+#EXTM3U  x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" ,t.me/m3u_lovers
+https://t.me/m3u_lovers
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids: Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" group-title="Kids",Hungama
+http://103.131.214.129:9985/stream/channel/be531b9727f9637fd32fd8bddaee6628?profile=pass 
+#EXTINF: -1 tvg-id="300" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/84/image" group-title="HD;Entertainment", Sony Entertainment HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-entertainment-hd/index.ts
+#EXTINF: -1 tvg-id="301" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/85/image" group-title="HD;Entertainment", Colors HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/colors-hd/index.ts
+#EXTINF: -1 tvg-id="302" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/86/image" group-title="HD;Entertainment", Zee TV HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/zee-tv-hd/index.ts
+#EXTINF: -1 tvg-id="303" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/88/image" group-title="HD;Entertainment", Star Plus HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-plus-hd/index.ts
+#EXTINF: -1 tvg-id="304" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/89/image" group-title="HD;Entertainment", And TV HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/and-tv-hd/index.ts
+#EXTINF: -1 tvg-id="305" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/87/image" group-title="HD;Entertainment", Star Bharat HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-bharat-hd/index.ts
+#EXTINF: -1 tvg-id="306" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/309/image" group-title="HD;Entertainment", Sony Sab HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-sab-hd/index.ts
+#EXTINF: -1 tvg-id="311" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/90/image" group-title="HD;Entertainment", Zee Cafe HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/zee-cafe-hd/index.ts
+#EXTINF: -1 tvg-id="312" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/269/image" group-title="HD;Entertainment", COLORS INFINITY HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/colors-infinity-hd/index.ts
+#EXTINF: -1 tvg-id="313" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/271/image" group-title="HD;Entertainment", Fox Life HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/fox-liife-hd/index.ts
+#EXTINF: -1 tvg-id="314" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/617/image" group-title="HD;Entertainment", Disney International HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/disney-international-hd/index.ts
+#EXTINF: -1 tvg-id="315" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/663/image" group-title="Entertainment", Star Plus
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-plus/index.ts
+#EXTINF: -1 tvg-id="316" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/770/image" group-title="Entertainment", Star Bharat
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-bharat/index.ts
+#EXTINF: -1 tvg-id="320" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/92/image" group-title="Entertainment", Comedy Central
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/comedy-central/index.ts
+#EXTINF: -1 tvg-id="322" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/668/image" group-title="Entertainment", Colors Infinity
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/colors-infinity/index.ts
+#EXTINF: -1 tvg-id="329" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/662/image" group-title="Entertainment", Colors SD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/colors-sd/index.ts
+#EXTINF: -1 tvg-id="330" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/95/image" group-title="Entertainment", Sony Entertainment SD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-entertainment/index.ts
+#EXTINF: -1 tvg-id="331" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/94/image" group-title="Entertainment", Sab TV
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-sab/index.ts
+#EXTINF: -1 tvg-id="332" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/96/image" group-title="Entertainment", Sony Pal
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-pal/index.ts
+#EXTINF: -1 tvg-id="333" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/234/image" group-title="Entertainment", Zee Anmol
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/zee-tv/index.ts
+#EXTINF: -1 tvg-id="336" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/567/image" group-title="Entertainment", DD Bharati
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/dd-bharati/index.ts
+#EXTINF: -1 tvg-id="344" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/106/image" group-title="Entertainment", Rishtey
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/rishtey/index.ts
+#EXTINF: -1 tvg-id="406" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/713/image" group-title="HD;Movies", Star Movies HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-movies-hd/index.ts
+#EXTINF: -1 tvg-id="407" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/718/image" group-title="HD;Movies", Star Movies Select HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-movies-select-hd/index.ts
+#EXTINF: -1 tvg-id="409" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/307/image" group-title="HD;Movies", Sony Max HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-max-hd/index.ts
+#EXTINF: -1 tvg-id="410" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/270/image" group-title="HD;Movies", Colors Cineplex HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/cineplex-hd/index.ts
+#EXTINF: -1 tvg-id="411" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/130/image" group-title="HD;Movies", And Pictures HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/and-pictures-hd/index.ts
+#EXTINF: -1 tvg-id="412" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/214/image" group-title="HD;Movies", Star Gold HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-gold-hd/index.ts
+#EXTINF: -1 tvg-id="413" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/131/image" group-title="HD;Movies", Zee Cinema HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/zee-cinema-hd/index.ts
+#EXTINF: -1 tvg-id="414" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/132/image" group-title="HD;Movies", Star Gold Select HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-gold-select-hd/index.ts
+#EXTINF: -1 tvg-id="430" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/141/image" group-title="HD;Movies", Lotus Macau HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/lotus-macau-hd/index.ts
+#EXTINF: -1 tvg-id="416" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/775/image" group-title="Movies", Star Movies
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-movies/index.ts
+#EXTINF: -1 tvg-id="417" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/673/image" group-title="Movies", Star Gold
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-gold/index.ts
+#EXTINF: -1 tvg-id="421" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/133/image" group-title="Movies", Sony Max
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-max/index.ts
+#EXTINF: -1 tvg-id="422" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/135/image" group-title="Movies", Zee Bollywood
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/zee-cinema/index.ts
+#EXTINF: -1 tvg-id="423" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/138/image" group-title="Movies", Star Gold 2
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/movies-ok/index.ts
+#EXTINF: -1 tvg-id="424" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/137/image" group-title="Movies", Sony Max 2
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-max-2/index.ts
+#EXTINF: -1 tvg-id="425" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/218/image" group-title="Movies", Star Gold Select
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-gold-select/index.ts
+#EXTINF: -1 tvg-id="426" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/139/image" group-title="Movies", Zee Action
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/zee-action/index.ts
+#EXTINF: -1 tvg-id="428" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/143/image" group-title="Movies", Sony Pix
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-pix/index.ts
+#EXTINF: -1 tvg-id="437" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/151/image" group-title="Movies", Star Utsav Movies
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-utsav-movies/index.ts
+#EXTINF: -1 tvg-id="441" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/71/image" group-title="Movies", Zee Classic
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/living-foodz/index.ts
+#EXTINF: -1 tvg-id="505" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/108/image" group-title="Sports;HD", Sony Sports Ten 1 HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-ten-1-hd/index.ts
+#EXTINF: -1 tvg-id="506" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/109/image" group-title="Sports;HD", Sony Sports Ten 2 HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-ten-2-hd/index.ts
+#EXTINF: -1 tvg-id="507" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/110/image" group-title="Sports;HD", Sony Sports Ten 3 HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-ten-3-hd/index.ts
+#EXTINF: -1 tvg-id="508" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/111/image" group-title="Sports;HD", Sony Sports Ten 5 HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-six-hd/index.ts
+#EXTINF: -1 tvg-id="510" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/112/image" group-title="Sports;HD", Star Sports 1 HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-1-hd/index.ts
+#EXTINF: -1 tvg-id="511" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/113/image" group-title="Sports;HD", Star Sports 2 HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-2-hd/index.ts
+#EXTINF: -1 tvg-id="512" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/114/image" group-title="Sports;HD", Star Sports 1 HD Hindi
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-1-hd-hindi/index.ts
+#EXTINF: -1 tvg-id="513" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/115/image" group-title="Sports;HD", Star Sports Select HD 1
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-select-hd-1/index.ts
+#EXTINF: -1 tvg-id="514" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/116/image" group-title="Sports;HD", Star Sports Select HD 2
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-select-hd-2/index.ts
+#EXTINF: -1 tvg-id="515" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/242/image" group-title="Sports", Star Sports Select 1
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-select-1-sd/index.ts
+#EXTINF: -1 tvg-id="516" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/235/image" group-title="Sports", Star Sports Select 2
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-select-2/index.ts
+#EXTINF: -1 tvg-id="519" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/117/image" group-title="Sports", Sony Sports Ten 1
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-ten-1/index.ts
+#EXTINF: -1 tvg-id="520" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/119/image" group-title="Sports", Sony Sports Ten 2
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-ten-2/index.ts
+#EXTINF: -1 tvg-id="521" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/120/image" group-title="Sports", Sony Sports Ten 3
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-ten-3/index.ts
+#EXTINF: -1 tvg-id="522" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/121/image" group-title="Sports", Sony Sports Ten 5
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-six/index.ts
+#EXTINF: -1 tvg-id="524" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/124/image" group-title="Sports", Star Sports 1
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-1/index.ts
+#EXTINF: -1 tvg-id="525" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/243/image" group-title="Sports", Star Sports 2
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-2/index.ts
+#EXTINF: -1 tvg-id="526" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/320/image" group-title="Sports", Star Sports 1 Hindi
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/star-sports-3/index.ts
+#EXTINF: -1 tvg-id="527" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/123/image" group-title="Sports", DD Sports
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/dd-sports/index.ts
+#EXTINF: -1 tvg-id="605" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/388/image" group-title="Music", MTV Beats HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/mtv-beats-hd/index.ts
+#EXTINF: -1 tvg-id="610" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/153/image" group-title="Music", VH1
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/vh1/index.ts
+#EXTINF: -1 tvg-id="616" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/159/image" group-title="Music", MTV
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/mtv/index.ts
+#EXTINF: -1 tvg-id="620" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/163/image" group-title="Music", Zing
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/zing/index.ts
+#EXTINF: -1 tvg-id="700" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/328/image" group-title="Kids;HD", CBeebies Asia HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/cbeebies-asia-hd/index.ts
+#EXTINF: -1 tvg-id="704" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/170/image" group-title="Kids", Nick Jr
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/nick-jr/index.ts
+#EXTINF: -1 tvg-id="705" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/758/image" group-title="Kids", Hungama  TV
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/hungama-tv/index.ts
+#EXTINF: -1 tvg-id="706" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/316/image" group-title="Kids", Nick India
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/nick-india/index.ts
+#EXTINF: -1 tvg-id="707" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/173/image" group-title="Kids", Super Hungama
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/disney-xd/index.ts
+#EXTINF: -1 tvg-id="708" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/172/image" group-title="Kids", Disney Junior
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/disney-junior/index.ts
+#EXTINF: -1 tvg-id="709" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/542/image" group-title="Kids", Disney Channel
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/disney-channel/index.ts
+#EXTINF: -1 tvg-id="710" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/496/image" group-title="Kids", Discovery Kids
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/discovery-kids/index.ts
+#EXTINF: -1 tvg-id="712" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/751/image" group-title="Kids", Sonic Nickelodeon
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/nickelodeon-sonic/index.ts
+#EXTINF: -1 tvg-id="801" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/174/image" group-title="HD;Adventures", Nat Geo Wild HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/nat-geo-wild-hd/index.ts
+#EXTINF: -1 tvg-id="802" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/176/image" group-title="HD;Adventures", Animal Planet HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/animal-planet-hd/index.ts
+#EXTINF: -1 tvg-id="803" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/177/image" group-title="HD;Adventures", National Geographic Channel HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/national-geographic-channel-hd/index.ts
+#EXTINF: -1 tvg-id="804" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/178/image" group-title="HD;Adventures", Discovery HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/discovery-hd-world/index.ts
+#EXTINF: -1 tvg-id="805" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/180/image" group-title="HD;Adventures", TLC HD World
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/tlc-hd-world/index.ts
+#EXTINF: -1 tvg-id="806" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/264/image" group-title="HD;Adventures", Sony BBC Earth HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-bbc-earth-1/index.ts
+#EXTINF: -1 tvg-id="808" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/361/image" group-title="Adventures", CGTN Documentary
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/cgtn-documentary/index.ts
+#EXTINF: -1 tvg-id="809" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/765/image" group-title="Adventures", National Geographic Channel  SD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/national-geographic-channel-sd/index.ts
+#EXTINF: -1 tvg-id="810" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/179/image" group-title="Adventures", History TV 18
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/history-tv-18/index.ts
+#EXTINF: -1 tvg-id="811" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/181/image" group-title="Adventures", Sony BBC Earth
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sony-bbc-earth/index.ts
+#EXTINF: -1 tvg-id="812" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/182/image" group-title="Adventures", Discovery Turbo
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/discovery-turbo/index.ts
+#EXTINF: -1 tvg-id="814" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/318/image" group-title="Adventures", Discovery Channel
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/discovery-channel/index.ts
+#EXTINF: -1 tvg-id="815" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/317/image" group-title="Adventures", TLC
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/tlc-india/index.ts
+#EXTINF: -1 tvg-id="816" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/992/image" group-title="Adventures", Animal Planet
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/animal-planet/index.ts
+#EXTINF: -1 tvg-id="817" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/995/image" group-title="Adventures", Discovery Science
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/discovery-science/index.ts
+#EXTINF: -1 tvg-id="851" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/212/image" group-title="HD;International", NHK World HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/nhk-world-hd/index.ts
+#EXTINF: -1 tvg-id="852" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/210/image" group-title="HD;International", NHK Premium HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/nhk-premium-hd/index.ts
+#EXTINF: -1 tvg-id="853" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/211/image" group-title="HD;International", Arirang HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/arirang-hd/index.ts
+#EXTINF: -1 tvg-id="854" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/204/image" group-title="HD;International", DW-TV HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/dw-tv-hd/index.ts
+#EXTINF: -1 tvg-id="865" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/229/image" group-title="HD;International", Fashion TV Asia HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/fashion-tv-asia-hd/index.ts
+#EXTINF: -1 tvg-id="867" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/284/image" group-title="HD;International", KBS Korea
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/kbs-world-24/index.ts
+#EXTINF: -1 tvg-id="868" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/70/image" group-title="HD;International", VOA HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/voa-asia/index.ts
+#EXTINF: -1 tvg-id="864" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/206/image" group-title="International", TV 5 MONDE
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/tv-5-monde/index.ts
+#EXTINF: -1 tvg-id="900" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/72/image" group-title="Spiritual & Life;HD", Bhakti Darshan HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/bhakti-darshan/index.ts
+#EXTINF: -1 tvg-id="901" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/332/image" group-title="Spiritual & Life", Divya Darshan HD
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/divya-darshan-hd/index.ts
+#EXTINF: -1 tvg-id="902" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/562/image" group-title="Spiritual & Life", Deep TV
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/deep-tv/index.ts
+#EXTINF: -1 tvg-id="903" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/743/image" group-title="Spiritual & Life", Dharma Television
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/dharma-television/index.ts
+#EXTINF: -1 tvg-id="908" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/76/image" group-title="Spiritual & Life", Aastha
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/aastha/index.ts
+#EXTINF: -1 tvg-id="909" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/77/image" group-title="Spiritual & Life", Sanskar TV
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sanskar-tv/index.ts
+#EXTINF: -1 tvg-id="910" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/74/image" group-title="Spiritual & Life", Peace of Mind
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/peace-of-mind/index.ts
+#EXTINF: -1 tvg-id="911" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/227/image" group-title="Spiritual & Life", PeaceTv Urdu
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/peacetv-urdu/index.ts
+#EXTINF: -1 tvg-id="912" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/240/image" group-title="Spiritual & Life", Madani Channel
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/madani-channel/index.ts
+#EXTINF: -1 tvg-id="913" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/82/image" group-title="Spiritual & Life", Daystar Television
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/daystar/index.ts
+#EXTINF: -1 tvg-id="918" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/1003/image" group-title="Spiritual & Life", Aastha Nepal
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/aastha-nepal/index.ts
+#EXTINF: -1 tvg-id="923" tvg-logo="https://resources.geniustv.geniussystems.com.np/livetv/channels/825/image" group-title="Spiritual & Life", Patanjali
+https://ardinesh-nettv.puspas.com.np/auth82aMXxywWe/live/nettv-universal/sn-tv/index.ts
