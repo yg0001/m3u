@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
-</head>
-<body>
-<p>Silence is Golden!</p>
-<script>
-window.location.href = "https://t.me/m3u_lovers";
-</script>
-</html>
-<noscript>
-<p>This page requires JavaScript to function properly.</p>
-</noscript>
-#EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" ,t.me/allinonereborn
-https://t.me/m3u_lovers
+
 #EXTM3U  x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZsRBvviJ5GPSURFpfYfC6A","kid":"nz3GiVgoNDi7x2Szznd1+A"}],"type":"temporary"}
